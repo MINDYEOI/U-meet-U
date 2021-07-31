@@ -1,7 +1,7 @@
 # What is UU : U meet U?
 It earned **3rd prize** of **2021 Winter SV Software Technology and Innovation Program**!<br>
 It is the carpool service for `university members` (students, professors, school employee and so on.). <br>
-`Drivers` can earn a `UU coin ㅡ Golden Leaf` per a driving and `UU coin` can be used in the UU Shop! <br>
+`Drivers` can earn a `UU coin ㅡ Golden Leaf ㅡ` per a driving and `UU coin` can be used in the UU Shop! <br>
 `Passenger` should pay a coin for a carpool service.
 `Some profits` are donated to environmental movement organization.
 
